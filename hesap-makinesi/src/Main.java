@@ -38,7 +38,7 @@ public class Main {
                 n1 = input.nextInt();
                 System.out.print("Ikinci sayiyi giriniz: ");
                 n2 = input.nextInt();
-                System.out.print("Bolme islemi sonucunuz: " + (n1 / n2));
+                System.out.print(n2 == 0 ? "Tanimsiz" : "Bolme islemi sonucunuz: " + (n1 / n2));
                 break;
             default:
                 System.out.print("Hatalı bir işlem seçtiniz!");

@@ -1,4 +1,5 @@
 ## Hava sıcaklığına göre etkinlik öneren program
+![Hava sıcaklığına göre etkinlik öneren program](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/mevlut/projects/93RGJiQExnYHKrxRb-sicakliga-gore-etkinlik-oneren-program)
 
 **Koşullar**
 * Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.

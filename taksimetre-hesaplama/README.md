@@ -1,4 +1,5 @@
 ## Taksimetre hesaplama programı
+![Taksimetre hesaplama programı](https://github.com/mevlutcelik/javaBootcamp/blob/main/taksimetre-hesaplama/screenshot.png?raw=true)
 ```
 ÖDEV (JAVA)
 ```

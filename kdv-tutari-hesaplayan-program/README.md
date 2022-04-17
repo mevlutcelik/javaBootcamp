@@ -1,4 +1,5 @@
 ## KDV Tutarını hesaplayan program
+![KDV Tutarını hesaplayan program](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/mevlut/projects/7M5qAMLu42sd5drgk-kdv-tutarini-hesaplayan-proje)
 ```
 ÖDEV (JAVA)
 ```

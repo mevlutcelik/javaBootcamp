@@ -1,4 +1,5 @@
 # Uçak Bileti Hesaplama Uygulaması
+![Uçak Bileti Hesaplama Uygulaması](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/mevlut/projects/TyizmXoNYcqwG3Syu-ucak-bileti-hesaplama-uygulamasi)
 
 Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan programı yapın.
 

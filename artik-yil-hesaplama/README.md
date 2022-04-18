@@ -1,6 +1,7 @@
 # Artık Yıl Hesaplama Uygulaması
 
 ## Artık Yıl Nedir?
+![Artık Yıl Nedir?](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/mevlut/projects/y9qY9BeeFKXn3ZZHw-artik-yil-hesaplama)
 
 Artık yıl, Miladî takvimde 365 yerine 366 günü olan yıl. Bu fazladan gün (artık gün), normalde 28 gün olan şubat ayına 29 Şubat’ın eklenmesi ile elde edilir.
 

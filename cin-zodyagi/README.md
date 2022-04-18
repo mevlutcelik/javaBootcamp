@@ -1,4 +1,5 @@
 # Çin Zodyağı Hesaplama Uygualaması
+![Çin Zodyağı Hesaplama Uygualaması](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/mevlut/projects/3E9BahwMatwnwktvK-cin-zodyagi-hesaplama)
 
 ## Çin Zodyağı Nedir?
 4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.
